@@ -10,3 +10,7 @@ For example, the following error appeared in my console whenever I activated the
 As this might cause some confusion as to the source, it still required some time for figuring-out where it came from.
 
 Therefore, the two screenshots, with and without Vue Dev Tools active.
+
+And,
+
+Relief that my code was not the source of error.
